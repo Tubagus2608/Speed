@@ -1,0 +1,2 @@
+# Speed
+UAS Kecerdasan Buatan
